@@ -27,4 +27,14 @@
 2.請用管理員身份運行
 3.初次打開U A C會提示位置的開發者請暗「是」
 
+示範影片:https://1drv.ms/v/c/49f2d46c23eb2214/IQB_jP1_zTQ5Sp-3Mkd3iWAhAbzsg_CUBw0W7fnsGEWPaHI?e=NaeG2O
+
+<img width="1718" height="920" alt="Windows 11 x64-2026-09-03-20-31-21" src="https://github.com/user-attachments/assets/7537d4c2-900a-428f-95cb-f7b9bb7bb0d5" />
+
+<img width="1718" height="920" alt="Windows 11 x64-2026-09-03-20-32-03" src="https://github.com/user-attachments/assets/21ae6320-394a-49cd-bc6e-e61c3bee56c6" />
+
+<img width="1718" height="920" alt="Windows 11 x64-2026-09-03-20-33-27" src="https://github.com/user-attachments/assets/79816161-a467-4e74-8c30-0771eab0c57e" />
+
+<img width="1718" height="920" alt="Windows 11 x64-2026-09-03-20-33-38" src="https://github.com/user-attachments/assets/74df8f06-4135-488a-bbe6-dd7eafbf010f" />
+
 
