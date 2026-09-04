@@ -25,7 +25,7 @@
 注意事項：
 1.關閉Windows安全性前請先至Windows安全性關閉篡改防護
 2.請用管理員身份運行
-3.初次打開U A C會提示位置的開發者請暗「是」
+3.初次打開U A C會提示位置的開發者請按「是」
 
 示範影片:https://1drv.ms/v/c/49f2d46c23eb2214/IQB_jP1_zTQ5Sp-3Mkd3iWAhAbzsg_CUBw0W7fnsGEWPaHI?e=NaeG2O
 
