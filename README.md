@@ -37,4 +37,8 @@
 
 <img width="1718" height="920" alt="Windows 11 x64-2026-09-03-20-33-38" src="https://github.com/user-attachments/assets/74df8f06-4135-488a-bbe6-dd7eafbf010f" />
 
+下載前可能會被檔掉請按仍要保留
+<img width="362" height="546" alt="PixPin_2026-09-04_21-48-39" src="https://github.com/user-attachments/assets/5a4e3bcb-25bc-485a-9831-8f7d5d72a115" />
+
+
 
